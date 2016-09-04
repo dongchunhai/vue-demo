@@ -1,2 +1,2 @@
 # vue-demo
-this is demos for vue
+the project is created for starting vue
